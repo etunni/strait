@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="franc" format="1">
-  <advance width="433"/>
-  <unicode hex="20A3"/>
-  <outline>
-    <component  base="F"/>
-    <component  base="ethbar" xScale="1.1" xOffset="-94" yOffset="-172"/>
-  </outline>
-</glyph>
